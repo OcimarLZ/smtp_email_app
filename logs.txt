@@ -1,0 +1,604 @@
+2024-03-06 17:32:32,551  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:32:36,444  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Coronel Ulysses
+2024-03-06 17:32:40,188  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dr Fabio Rueda
+2024-03-06 17:32:43,386  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Gerlen Diniz
+2024-03-06 17:32:46,785  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Meire Serafim
+2024-03-06 17:32:50,049  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Roberto Duarte
+2024-03-06 17:32:53,400  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Socorro Neri
+2024-03-06 17:32:56,479  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Zezinho Barbary
+2024-03-06 17:32:56,479  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:32:56,480  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:32:56,480  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:32:59,623  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Alfredo Gaspar
+2024-03-06 17:32:59,623  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:32:59,624  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:32:59,624  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:33:02,915  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Isnaldo Bulhões Jr.
+2024-03-06 17:33:06,150  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luciano Amaral
+2024-03-06 17:33:09,426  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marx Beltrão
+2024-03-06 17:33:12,478  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulão
+2024-03-06 17:33:12,478  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:33:15,688  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - FERNANDO FARIAS
+2024-03-06 17:33:15,688  root  INFO: Email enviado por Rogério - IFC
+2024-03-06 17:33:18,997  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - RODRIGO CUNHA
+2024-03-06 17:33:18,998  root  INFO: Email enviado por Márcio - IFAM
+2024-03-06 17:33:18,998  root  INFO: Email enviado por Márcio - IFAM
+2024-03-06 17:33:18,998  root  INFO: Email enviado por Márcio - IFAM
+2024-03-06 17:33:18,998  root  INFO: Email enviado por Márcio - IFAM
+2024-03-06 17:33:18,998  root  INFO: Email enviado por Márcio - IFAM
+2024-03-06 17:33:18,998  root  INFO: Email enviado por Márcio - IFAM
+2024-03-06 17:33:18,999  root  INFO: Email enviado por André - IFAM
+2024-03-06 17:33:18,999  root  INFO: Email enviado por André - IFAM
+2024-03-06 17:33:18,999  root  INFO: Email enviado por André - IFAM
+2024-03-06 17:33:18,999  root  INFO: Email enviado por André - IFAM
+2024-03-06 17:33:18,999  root  INFO: Email enviado por André - IFAM
+2024-03-06 17:33:22,116  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Acácio Favacho
+2024-03-06 17:33:25,264  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Augusto Puppio
+2024-03-06 17:33:28,513  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dorinaldo Malafaia
+2024-03-06 17:33:31,914  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Josenildo
+2024-03-06 17:33:35,073  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Professora Goreth
+2024-03-06 17:33:38,285  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Silvia Waiãpi
+2024-03-06 17:33:41,412  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Sonize Barbosa
+2024-03-06 17:33:44,276  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Vinicius Gurgel
+2024-03-06 17:33:44,276  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:33:44,276  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:33:44,276  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:33:47,732  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Adolfo Viana
+2024-03-06 17:33:50,969  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Alex Santana
+2024-03-06 17:33:54,181  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Alice Portugal
+2024-03-06 17:33:57,517  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Antonio Brito
+2024-03-06 17:34:00,552  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Arthur Oliveira Maia
+2024-03-06 17:34:03,585  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Bacelar
+2024-03-06 17:34:06,849  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Capitão Alden
+2024-03-06 17:34:10,517  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Charles Fernandes
+2024-03-06 17:34:13,542  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Claudio Cajado
+2024-03-06 17:34:16,684  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dal Barreto
+2024-03-06 17:34:19,705  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Daniel Almeida
+2024-03-06 17:34:22,758  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Diego Coronel
+2024-03-06 17:34:25,918  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Elmar Nascimento
+2024-03-06 17:34:29,294  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Félix Mendonça Júnior
+2024-03-06 17:34:32,574  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Gabriel Nunes
+2024-03-06 17:34:35,747  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ivoneide Caetano
+2024-03-06 17:34:38,684  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - João Carlos Bacelar
+2024-03-06 17:34:41,703  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - João Leão
+2024-03-06 17:34:44,857  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Jorge Solla
+2024-03-06 17:34:48,528  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - José Rocha
+2024-03-06 17:34:51,619  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Joseildo Ramos
+2024-03-06 17:34:55,236  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Josias Gomes
+2024-03-06 17:34:58,333  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Leo Prates
+2024-03-06 17:35:01,566  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Leur Lomanto Júnior
+2024-03-06 17:35:04,713  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lídice da Mata
+2024-03-06 17:35:08,058  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Márcio Marinho
+2024-03-06 17:35:11,329  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Mário Negromonte Jr.
+2024-03-06 17:35:14,467  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Neto Carletto
+2024-03-06 17:35:17,662  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Otto Alencar Filho
+2024-03-06 17:35:20,937  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pastor Sargento Isidório
+2024-03-06 17:35:24,110  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulo Azi
+2024-03-06 17:35:27,301  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulo Magalhães
+2024-03-06 17:35:30,284  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Raimundo Costa
+2024-03-06 17:35:33,482  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ricardo Maia
+2024-03-06 17:35:51,611  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Roberta Roma
+2024-03-06 17:35:54,401  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rogéria Santos
+2024-03-06 17:35:57,639  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Valmir Assunção
+2024-03-06 17:36:01,051  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Waldenor Pereira
+2024-03-06 17:36:04,273  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Zé Neto
+2024-03-06 17:36:04,273  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:36:04,273  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:36:04,273  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:36:07,349  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - AJ Albuquerque
+2024-03-06 17:36:10,456  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - André Fernandes
+2024-03-06 17:36:13,600  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - André Figueiredo
+2024-03-06 17:36:16,795  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Célio Studart
+2024-03-06 17:36:19,762  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Danilo Forte
+2024-03-06 17:36:22,901  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dayany Bittencourt
+2024-03-06 17:36:26,064  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Domingos Neto
+2024-03-06 17:36:28,887  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dr. Jaziel
+2024-03-06 17:36:32,145  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Eduardo Bismarck
+2024-03-06 17:36:35,211  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Eunício Oliveira
+2024-03-06 17:36:38,301  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Fernanda Pessoa
+2024-03-06 17:36:41,956  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Idilvan Alencar
+2024-03-06 17:36:45,110  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - José Airton Félix Cirilo
+2024-03-06 17:36:45,110  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:36:48,506  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Júnior Mano
+2024-03-06 17:36:51,703  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Leônidas Cristino
+2024-03-06 17:36:54,876  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luiz Gastão
+2024-03-06 17:36:58,008  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luizianne Lins
+2024-03-06 17:37:00,908  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Matheus Noronha
+2024-03-06 17:37:03,998  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Mauro Benevides Filho
+2024-03-06 17:37:03,998  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:37:07,316  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Yury do Paredão
+2024-03-06 17:37:07,316  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:10,459  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - CID GOMES
+2024-03-06 17:37:13,365  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - EDUARDO GIRÃO
+2024-03-06 17:37:16,488  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Alberto Fraga
+2024-03-06 17:37:16,488  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:19,386  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Erika Kokay
+2024-03-06 17:37:22,576  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Fred Linhares
+2024-03-06 17:37:25,820  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Gilvan Maximo
+2024-03-06 17:37:28,754  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Julio Cesar Ribeiro
+2024-03-06 17:37:32,001  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Prof. Reginaldo Veras
+2024-03-06 17:37:35,078  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rafael Prudente
+2024-03-06 17:37:38,205  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - DAMARES ALVES
+2024-03-06 17:37:41,353  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - IZALCI LUCAS
+2024-03-06 17:37:44,435  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - LEILA BARROS
+2024-03-06 17:37:44,436  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,436  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,436  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,436  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Fernando - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Fernando - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:44,437  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:37:47,690  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Adriano do Baldy
+2024-03-06 17:37:50,803  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Célio Silveira
+2024-03-06 17:37:53,802  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Daniel Agrobom
+2024-03-06 17:37:56,999  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Delegada Adriana Accorsi
+2024-03-06 17:38:00,096  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dr. Zacharias Calil
+2024-03-06 17:38:02,883  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Flávia Morais
+2024-03-06 17:38:06,023  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Glaustin da Fokus
+2024-03-06 17:38:09,230  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Gustavo Gayer
+2024-03-06 17:38:12,346  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Hildo do Candango
+2024-03-06 17:38:15,570  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ismael Alexandrino
+2024-03-06 17:38:18,660  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - José Nelto
+2024-03-06 17:38:21,602  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lêda Borges
+2024-03-06 17:38:24,965  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Magda Mofatto
+2024-03-06 17:38:28,082  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marussa Boldrin
+2024-03-06 17:38:31,088  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Professor Alcides
+2024-03-06 17:38:34,111  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rubens Otoni
+2024-03-06 17:38:37,048  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Silvye Alves
+2024-03-06 17:38:40,014  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - JORGE KAJURU
+2024-03-06 17:38:43,077  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - VANDERLAN CARDOSO
+2024-03-06 17:38:46,389  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - WILDER MORAIS
+2024-03-06 17:38:49,704  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Amanda Gentil
+2024-03-06 17:38:52,880  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Cleber Verde
+2024-03-06 17:38:56,113  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dr. Allan Garcês
+2024-03-06 17:38:59,356  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dr. Benjamim
+2024-03-06 17:39:02,942  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Duarte Jr.
+2024-03-06 17:39:05,929  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Fábio Macedo
+2024-03-06 17:39:08,980  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Henrique Júnior
+2024-03-06 17:39:12,255  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Josivaldo JP
+2024-03-06 17:39:15,420  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luciano Galego
+2024-03-06 17:39:18,687  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Márcio Honaiser
+2024-03-06 17:39:21,896  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Márcio Jerry
+2024-03-06 17:39:24,993  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Mariana Carvalho
+2024-03-06 17:39:28,007  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulo Marinho Jr
+2024-03-06 17:39:31,172  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pedro Lucas Fernandes
+2024-03-06 17:39:34,397  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Roseana Sarney
+2024-03-06 17:39:37,424  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rubens Pereira Júnior
+2024-03-06 17:39:40,580  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Silvio Antonio
+2024-03-06 17:39:43,694  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Wolmer Araújo
+2024-03-06 17:39:46,775  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - ELIZIANE GAMA
+2024-03-06 17:39:49,784  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - FLÁVIO DINO
+2024-03-06 17:39:52,866  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - WEVERTON
+2024-03-06 17:39:52,866  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,866  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,866  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:39:52,866  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,866  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,867  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,868  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,868  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,868  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,868  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,868  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,868  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:52,868  root  INFO: Email enviado por Clayton - UFVJM
+2024-03-06 17:39:56,072  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lafayette de Andrada
+2024-03-06 17:39:59,380  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Leonardo Monteiro
+2024-03-06 17:40:02,412  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lincoln Portela
+2024-03-06 17:40:05,399  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luis Tibé
+2024-03-06 17:40:08,646  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luiz Fernando Faria
+2024-03-06 17:40:11,705  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcelo Álvaro Antônio
+2024-03-06 17:40:14,630  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Mário Heringer
+2024-03-06 17:40:14,630  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:40:14,630  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:40:17,607  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Misael Varella
+2024-03-06 17:40:20,727  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Nely Aquino
+2024-03-06 17:40:24,320  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Newton Cardoso Jr
+2024-03-06 17:40:27,788  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Nikolas Ferreira
+2024-03-06 17:40:27,788  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:40:27,788  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:40:27,788  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:40:30,828  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulo Abi-Ackel
+2024-03-06 17:40:30,828  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:40:33,896  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pedro Aihara
+2024-03-06 17:40:36,813  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pinheirinho
+2024-03-06 17:40:39,879  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rafael Simoes
+2024-03-06 17:40:39,879  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:40:42,970  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rodrigo de Castro
+2024-03-06 17:40:42,970  root  INFO: Email enviado por Ubirajara - UFSJ
+2024-03-06 17:40:46,140  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rosângela Reis
+2024-03-06 17:40:49,406  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Samuel Viana
+2024-03-06 17:40:52,679  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Stefano Aguiar
+2024-03-06 17:40:55,905  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Weliton Prado
+2024-03-06 17:40:59,024  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Zé Silva
+2024-03-06 17:41:02,002  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Zé Vitor
+2024-03-06 17:41:05,009  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - CARLOS VIANA
+2024-03-06 17:41:08,171  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - CLEITINHO
+2024-03-06 17:41:11,168  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - RODRIGO PACHECO
+2024-03-06 17:41:14,367  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Beto Pereira
+2024-03-06 17:41:17,365  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Camila Jara
+2024-03-06 17:41:20,252  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dagoberto Nogueira
+2024-03-06 17:41:23,103  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dr. Luiz Ovando
+2024-03-06 17:41:26,226  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Geraldo Resende
+2024-03-06 17:41:29,294  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcos Pollon
+2024-03-06 17:41:32,401  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rodolfo Nogueira
+2024-03-06 17:41:35,452  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Vander Loubet
+2024-03-06 17:41:38,470  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - NELSINHO TRAD FILHO
+2024-03-06 17:41:41,434  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - SORAYA THRONICKE
+2024-03-06 17:41:44,355  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - TEREZA CRISTINA
+2024-03-06 17:41:47,236  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Abilio Brunini
+2024-03-06 17:41:50,081  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Amália Barros
+2024-03-06 17:41:53,323  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Coronel Assis
+2024-03-06 17:41:56,649  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Coronel Fernanda
+2024-03-06 17:41:59,794  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Emanuel Pinheiro Neto
+2024-03-06 17:42:03,099  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Gisela Simona
+2024-03-06 17:42:06,101  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - José Medeiros
+2024-03-06 17:42:09,173  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Juarez Costa
+2024-03-06 17:42:12,173  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - JAYME CAMPOS
+2024-03-06 17:42:15,316  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - MARGARETH BUZETTI
+2024-03-06 17:42:15,317  root  INFO: Email enviado por Gustavo - UFR
+2024-03-06 17:42:18,133  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Airton Faleiro
+2024-03-06 17:42:21,465  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Andreia Siqueira
+2024-03-06 17:42:24,562  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Antônio Doido
+2024-03-06 17:42:27,592  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Delegado Caveira
+2024-03-06 17:42:31,065  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Delegado Éder Mauro
+2024-03-06 17:42:34,830  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dilvanda Faro
+2024-03-06 17:42:38,170  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dra. Alessandra Haber
+2024-03-06 17:42:41,218  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Elcione Barbalho
+2024-03-06 17:42:44,464  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Hélio Leite
+2024-03-06 17:42:47,384  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Henderson Pinto
+2024-03-06 17:42:50,294  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Joaquim Passarinho
+2024-03-06 17:42:53,467  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - José Priante
+2024-03-06 17:42:56,422  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Júnior Ferrari
+2024-03-06 17:42:59,460  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Keniston Braga
+2024-03-06 17:43:02,563  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Olival Marques
+2024-03-06 17:43:05,653  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Raimundo Santos
+2024-03-06 17:43:08,562  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Renilce Nicodemos
+2024-03-06 17:43:08,562  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:43:08,562  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:43:08,562  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:43:11,689  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Aguinaldo Ribeiro
+2024-03-06 17:43:14,540  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Cabo Gilberto Silva
+2024-03-06 17:43:17,740  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Damião Feliciano
+2024-03-06 17:43:20,825  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Gervásio Maia
+2024-03-06 17:43:24,197  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Hugo Motta
+2024-03-06 17:43:27,606  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luiz Couto
+2024-03-06 17:43:30,792  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Mersinho Lucena
+2024-03-06 17:43:33,700  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Murilo Galdino
+2024-03-06 17:43:36,573  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Raniery Paulino
+2024-03-06 17:43:41,164  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Romero Rodrigues
+2024-03-06 17:43:44,168  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ruy Carneiro
+2024-03-06 17:43:47,232  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Wellington Roberto
+2024-03-06 17:43:50,379  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - DANIELLA RIBEIRO
+2024-03-06 17:43:53,185  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - EFRAIM FILHO
+2024-03-06 17:43:56,053  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - VENEZIANO VITAL DO RÃGO
+2024-03-06 17:43:59,053  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - André Ferreira
+2024-03-06 17:44:02,214  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Augusto Coutinho
+2024-03-06 17:44:02,214  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:44:05,313  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Clarissa Tércio
+2024-03-06 17:44:08,518  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Clodoaldo Magalhães
+2024-03-06 17:44:11,550  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Coronel Meira
+2024-03-06 17:44:14,718  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Eduardo da Fonte
+2024-03-06 17:44:14,718  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:44:17,723  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Felipe Carreras
+2024-03-06 17:44:20,806  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Fernando Coelho Filho
+2024-03-06 17:44:23,992  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Fernando Monteiro
+2024-03-06 17:44:27,097  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Fernando Rodolfo
+2024-03-06 17:44:30,184  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Guilherme Uchoa
+2024-03-06 17:44:33,224  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Iza Arruda
+2024-03-06 17:44:36,201  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lucas Ramos
+2024-03-06 17:44:39,476  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luciano Bivar
+2024-03-06 17:44:42,478  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lula da Fonte
+2024-03-06 17:44:45,615  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Maria Arraes
+2024-03-06 17:44:48,633  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Mendonça Filho
+2024-03-06 17:44:51,747  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ossesio Silva
+2024-03-06 17:44:54,965  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pastor Eurico
+2024-03-06 17:44:58,267  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pedro Campos
+2024-03-06 17:45:01,476  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Renildo Calheiros
+2024-03-06 17:45:04,403  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Túlio Gadêlha
+2024-03-06 17:45:07,606  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Waldemar Oliveira
+2024-03-06 17:45:07,606  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:45:07,607  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:45:07,607  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:45:10,610  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Átila Lira
+2024-03-06 17:45:13,680  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Castro Neto
+2024-03-06 17:45:16,716  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dr. Francisco
+2024-03-06 17:45:19,979  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Flávio Nogueira
+2024-03-06 17:45:23,081  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Florentino Neto
+2024-03-06 17:45:26,028  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Jadyel Alencar
+2024-03-06 17:45:29,454  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Julio Arcoverde
+2024-03-06 17:45:32,816  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Júlio Cesar
+2024-03-06 17:45:35,751  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcos Aurélio Sampaio
+2024-03-06 17:45:38,806  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Merlong Solano
+2024-03-06 17:45:41,925  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - CIRO NOGUEIRA
+2024-03-06 17:45:44,982  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - JUSSARA LIMA
+2024-03-06 17:45:48,180  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - MARCELO CASTRO
+2024-03-06 17:45:48,181  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,181  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,181  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,182  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,183  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,184  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:48,185  root  INFO: Email enviado por Rafael - UFFS
+2024-03-06 17:45:51,098  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Altineu Côrtes
+2024-03-06 17:45:54,171  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Líder Partido
+2024-03-06 17:45:57,276  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Bandeira de Mello
+2024-03-06 17:46:00,506  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Bebeto
+2024-03-06 17:46:03,653  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Benedita da Silva
+2024-03-06 17:46:06,563  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Caio Vianna
+2024-03-06 17:46:09,718  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Carlos Jordy
+2024-03-06 17:46:12,809  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Chico Alencar
+2024-03-06 17:46:15,629  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Chiquinho Brazão
+2024-03-06 17:46:18,680  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Chris Tonietto
+2024-03-06 17:46:21,799  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dani Cunha
+2024-03-06 17:46:25,124  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Daniela do Waguinho
+2024-03-06 17:46:28,410  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Delegado Ramagem
+2024-03-06 17:46:31,435  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dimas Gadelha
+2024-03-06 17:46:31,435  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:46:34,508  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - General Pazuello
+2024-03-06 17:46:37,598  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Glauber Braga
+2024-03-06 17:46:40,632  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Gutemberg Reis
+2024-03-06 17:46:43,603  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Helio Lopes
+2024-03-06 17:46:46,914  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Hugo Leal
+2024-03-06 17:46:49,995  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Jandira Feghali
+2024-03-06 17:46:52,990  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Jorge Braz
+2024-03-06 17:46:55,887  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Julio Lopes
+2024-03-06 17:46:58,683  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Juninho do Pneu
+2024-03-06 17:47:01,860  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Laura Carneiro
+2024-03-06 17:47:04,770  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lindbergh Farias
+2024-03-06 17:47:07,830  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luciano Vieira
+2024-03-06 17:47:11,068  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luis Carlos Gomes
+2024-03-06 17:47:14,153  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luiz Lima
+2024-03-06 17:47:17,464  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcelo Crivella
+2024-03-06 17:47:20,242  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcelo Queiroz
+2024-03-06 17:47:23,417  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcos Soares
+2024-03-06 17:47:26,509  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcos Tavares
+2024-03-06 17:47:29,607  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Max Lemos
+2024-03-06 17:47:32,788  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Murillo Gouvea
+2024-03-06 17:47:35,761  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Otoni de Paula
+2024-03-06 17:47:38,660  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pastor Henrique Vieira
+2024-03-06 17:47:41,723  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pedro Paulo
+2024-03-06 17:47:44,720  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Reimont
+2024-03-06 17:47:48,060  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Roberto Monteiro Pai
+2024-03-06 17:47:51,280  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Sargento Portugal
+2024-03-06 17:47:55,035  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Soraya Santos
+2024-03-06 17:47:58,340  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Sóstenes Cavalcante
+2024-03-06 17:48:01,653  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Talíria Petrone
+2024-03-06 17:48:04,848  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Tarcísio Motta
+2024-03-06 17:48:07,860  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Washington Quaquá
+2024-03-06 17:48:07,860  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:48:07,861  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:48:07,861  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:48:11,007  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Benes Leocádio
+2024-03-06 17:48:14,125  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Fernando Mineiro
+2024-03-06 17:48:17,118  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - General Girão
+2024-03-06 17:48:20,145  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - João Maia
+2024-03-06 17:48:23,408  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Natália Bonavides
+2024-03-06 17:48:26,563  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulinho Freire
+2024-03-06 17:48:29,609  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Robinson Faria
+2024-03-06 17:48:32,559  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Sargento Gonçalves
+2024-03-06 17:48:35,607  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - ROGERIO MARINHO
+2024-03-06 17:48:38,490  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - STYVENSON VALENTIM
+2024-03-06 17:48:41,547  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - ZENAIDE MAIA
+2024-03-06 17:48:44,779  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Coronel Chrisóstomo
+2024-03-06 17:48:47,951  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Cristiane Lopes
+2024-03-06 17:48:51,078  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Dr. Fernando Máximo
+2024-03-06 17:48:54,174  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lebrão
+2024-03-06 17:48:56,952  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lucio Mosquini
+2024-03-06 17:49:00,086  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Maurício Carvalho
+2024-03-06 17:49:03,403  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Silvia Cristina
+2024-03-06 17:49:06,564  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Thiago Flores
+2024-03-06 17:49:09,628  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - CONFUCIO MOURA
+2024-03-06 17:49:12,754  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - JAIME BAGATTOLI
+2024-03-06 17:49:15,917  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - MARCOS ROGÃRIO
+2024-03-06 17:49:19,134  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Albuquerque
+2024-03-06 17:49:22,267  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Defensor Stélio Dener
+2024-03-06 17:49:25,287  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Duda Ramos
+2024-03-06 17:49:25,287  root  INFO: Email enviado por Edney - UFRR
+2024-03-06 17:49:25,287  root  INFO: Email enviado por Edney - UFRR
+2024-03-06 17:49:25,287  root  INFO: Email enviado por Edney - UFRR
+2024-03-06 17:49:28,381  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pastor Diniz
+2024-03-06 17:49:28,381  root  INFO: Email enviado por Edney - UFRR
+2024-03-06 17:49:28,381  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:49:28,381  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:49:28,381  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:49:28,382  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:49:31,885  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Afonso Motta
+2024-03-06 17:49:35,002  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Alceu Moreira
+2024-03-06 17:49:38,328  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Alexandre Lindenmeyer
+2024-03-06 17:49:41,551  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Any Ortiz
+2024-03-06 17:49:44,701  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Bibo Nunes
+2024-03-06 17:49:48,032  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Bohn Gass
+2024-03-06 17:49:48,033  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:49:51,298  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Daiana Santos
+2024-03-06 17:49:54,491  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Daniel Trzeciak
+2024-03-06 17:49:57,421  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Denise Pessôa
+2024-03-06 17:50:00,392  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Fernanda Melchionna
+2024-03-06 17:50:00,392  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:00,392  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:00,392  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:00,392  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:00,393  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:00,393  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:00,393  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:03,489  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcelo Moraes
+2024-03-06 17:50:03,489  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:06,453  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcon
+2024-03-06 17:50:09,548  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Maria do Rosário
+2024-03-06 17:50:09,548  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:09,549  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:09,549  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:09,549  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:12,547  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Reginete Bispo
+2024-03-06 17:50:12,547  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:15,721  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Sanderson
+2024-03-06 17:50:18,918  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Zucco
+2024-03-06 17:50:18,918  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Neimar - UFFS
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Giovani - UFFS
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Neimar - UFFS
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Márcia - UFFS
+2024-03-06 17:50:18,919  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:18,920  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:18,920  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:18,920  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:21,921  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ismael
+2024-03-06 17:50:24,826  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Jorge Goetten
+2024-03-06 17:50:27,724  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Julia Zanatta
+2024-03-06 17:50:27,724  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:27,725  root  INFO: Email enviado por Neimar - UFFS
+2024-03-06 17:50:30,784  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Zé Trovão
+2024-03-06 17:50:30,784  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:30,785  root  INFO: Email enviado por Neimar - UFFS
+2024-03-06 17:50:30,785  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:33,760  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Delegada Katarina
+2024-03-06 17:50:37,510  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Gustinho Ribeiro
+2024-03-06 17:50:41,090  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Icaro de Valmir
+2024-03-06 17:50:41,091  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:44,005  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Nitinho
+2024-03-06 17:50:47,666  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rodrigo Valadares
+2024-03-06 17:50:50,793  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Thiago de Joaldo
+2024-03-06 17:50:53,930  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Yandra Moura
+2024-03-06 17:50:53,930  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:50:53,930  root  INFO: Email enviado por Jeorge - IFES
+2024-03-06 17:50:53,930  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:53,930  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Jefferson - UFFS
+2024-03-06 17:50:53,931  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:50:56,829  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Bruno Ganem
+2024-03-06 17:50:59,911  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Capitão Augusto
+2024-03-06 17:51:03,676  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Carla Zambelli
+2024-03-06 17:51:03,676  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:03,676  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:06,803  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Celso Russomanno
+2024-03-06 17:51:06,804  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:10,191  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Coronel Telhada
+2024-03-06 17:51:14,084  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - David Soares
+2024-03-06 17:51:17,089  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Delegado da Cunha
+2024-03-06 17:51:20,293  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Delegado Palumbo
+2024-03-06 17:51:23,401  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Delegado Paulo Bilynskyj
+2024-03-06 17:51:26,461  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Douglas Viegas
+2024-03-06 17:51:29,593  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Eduardo Bolsonaro
+2024-03-06 17:51:32,580  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ely Santos
+2024-03-06 17:51:32,581  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:32,581  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:32,581  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:32,581  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:32,581  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:32,581  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:35,569  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Jefferson Campos
+2024-03-06 17:51:35,569  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:35,569  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:35,569  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:35,569  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:38,640  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Kim Kataguiri
+2024-03-06 17:51:42,381  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luiz Carlos Motta
+2024-03-06 17:51:45,417  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luiz Philippe de Orleans e Bragança
+2024-03-06 17:51:45,417  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:51:48,736  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marangoni
+2024-03-06 17:51:51,830  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcio Alvino
+2024-03-06 17:51:54,792  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Marcos Pereira
+2024-03-06 17:51:57,710  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Maria Rosas
+2024-03-06 17:52:01,176  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Mario Frias
+2024-03-06 17:52:04,262  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Mauricio Neves
+2024-03-06 17:52:08,422  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Miguel Lombardi
+2024-03-06 17:52:08,423  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:11,542  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Orlando Silva
+2024-03-06 17:52:14,560  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulinho da Força
+2024-03-06 17:52:17,539  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulo Alexandre Barbosa
+2024-03-06 17:52:20,419  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Paulo Freire Costa
+2024-03-06 17:52:23,565  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Pr. Marco Feliciano
+2024-03-06 17:52:23,566  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:26,940  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Renata Abreu
+2024-03-06 17:52:30,655  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ricardo Salles
+2024-03-06 17:52:30,656  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:33,453  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rodrigo Gambale
+2024-03-06 17:52:36,577  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rosana Valle
+2024-03-06 17:52:39,585  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Rosângela Moro
+2024-03-06 17:52:39,585  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:39,585  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:39,586  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:39,586  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:39,586  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:43,522  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Tiririca
+2024-03-06 17:52:43,522  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:47,200  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Vinicius Carvalho
+2024-03-06 17:52:47,201  root  INFO: Email enviado por Ocimar - UFFS
+2024-03-06 17:52:50,246  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - ASTRONAUTA MARCOS PONTES
+2024-03-06 17:52:53,075  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - GIORDANO
+2024-03-06 17:52:56,759  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - MARA GABRILLI
+2024-03-06 17:52:59,765  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Alexandre Guimarães
+2024-03-06 17:53:02,749  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Antonio Andrade
+2024-03-06 17:53:05,519  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Carlos Henrique Gaguim
+2024-03-06 17:53:08,489  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Eli Borges
+2024-03-06 17:53:11,524  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Filipe Martins
+2024-03-06 17:53:15,086  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Lázaro Botelho
+2024-03-06 17:53:18,118  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Ricardo Ayres
+2024-03-06 17:53:21,203  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Vicentinho Júnior
+2024-03-06 17:53:24,194  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - EDUARDO GOMES
+2024-03-06 17:53:27,433  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - IRAJÃ
+2024-03-06 17:53:31,130  root  INFO: Email enviado por sig.uffs@gmail.com para o Senador - PROFESSORA DORINHA SEABRA
+2024-03-06 18:24:20,680  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Guilherme Boulos
+2024-03-06 21:18:41,983  root  INFO: Email já enviado por Ocimar - UFFS
+2024-03-06 21:21:01,109  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Carlos Veras - Email enviado
+2024-03-06 21:21:04,016  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Eriberto Medeiros - Email enviado
+2024-03-07 09:28:57,209  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Carlos Veras - Email enviado
+2024-03-07 09:29:00,766  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Eriberto Medeiros - Email enviado
+2024-03-07 09:32:41,754  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Coronel Ulysses - Email enviado
+2024-03-07 09:37:05,284  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Antônia Lúcia - Email enviado
+2024-03-07 09:44:59,049  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Kim Kataguiri - Email enviado
+2024-03-07 09:45:28,676  root  INFO: Email enviado por sig.uffs@gmail.com para o Deputado - Luiz Philippe de Orleans e Bragança - Email enviado
